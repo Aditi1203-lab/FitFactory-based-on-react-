@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FitFactory_react_based/static/css/main.93da9d59.css",
+    "main.js": "/FitFactory_react_based/static/js/main.8816a719.js",
+    "static/js/787.4159b215.chunk.js": "/FitFactory_react_based/static/js/787.4159b215.chunk.js",
+    "index.html": "/FitFactory_react_based/index.html",
+    "main.93da9d59.css.map": "/FitFactory_react_based/static/css/main.93da9d59.css.map",
+    "main.8816a719.js.map": "/FitFactory_react_based/static/js/main.8816a719.js.map",
+    "787.4159b215.chunk.js.map": "/FitFactory_react_based/static/js/787.4159b215.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93da9d59.css",
+    "static/js/main.8816a719.js"
+  ]
+}
