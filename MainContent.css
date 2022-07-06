@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+*{
+    background-color:rgb(53, 57, 53);
+}
+.img_back{
+   border-radius: 34px;
+   margin-left: 34px;
+   margin-top:34px;
+   width:350px;
+}
+.img_back_1{
+    border-radius: 34px;
+   margin-left: 34px;
+   margin-top:34px;
+   width:300px;
+   height:225px;
+}
+.img_back_4{
+    border-radius: 34px;
+    margin-left:50px;
+    margin-top:23px;
+    width:275px;
+    height:225px;
+}
+.img_back_2{
+    border-radius: 34px;
+   margin-left: 200px;
+   margin-top:23px;
+   width:275px;
+}
+.go{
+    display: flex;
+}
+.img_back_3{
+    border-radius: 30px;
+   margin-left: 43px;
+   margin-top:15px;
+   width:200px;
+}
+.img_back_5{
+    border-radius: 30px;
+   margin-left: 150px;
+   margin-top:15px;
+   width:200px;
+}
+.title{
+    margin-left:65px;
+    margin-top: 50px;
+   height:110px;
+}
+h1{
+    font-family: 'Monoton', cursive;
+    color: bisque;
+    font-size:90px;
+    font-weight:400;
+    margin-right: 30px;
+}
+h1:hover{
+    color:chocolate;
+}
+p{
+    font-size:18px;
+    color:beige;
+    line-height: 30px;
+  
+}
+.half{
+    width: 1500px;
+}
+
+     

@@ -1,0 +1,44 @@
+*{
+    padding:0;
+    margin:0;
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    font-size:18px;
+    background-color:black;
+    color:white;
+    height: 75px;
+}
+.nav{
+    height: 10vh;
+}
+.home,.abtus,.conus,.signin{
+    list-style: none;
+    margin-top: 25px;
+    cursor: pointer;
+    background-color:black;
+}
+.home:hover{
+color:chocolate;
+background-color:black;
+}.abtus:hover{
+    color:chocolate;
+    background-color:black;
+}.conus:hover{
+    color:chocolate;
+    background-color:black;
+}.signin:hover{
+    color:chocolate;
+    background-color:black;
+}
+.line{
+    display: flex;
+    background-color: rgb(244, 244, 9);
+    width: 12px;
+   height:211vh;
+   transform: rotate(-90deg);
+  transform-origin: top;
+  margin-left: 0;
+  padding-left: 0;
+}
