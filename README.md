@@ -1,2 +1,2 @@
-# FitFactory-based-on-react-
+# FitFactory_react_based
 Dummy react based website
